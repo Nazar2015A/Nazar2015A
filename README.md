@@ -4,7 +4,7 @@
 
 With **4+ years of experience** and **30+ delivered projects**, I specialize in building scalable, high-performance web applications that drive real business results.
 
-> I don’t just write code — I build products that grow, scale, and generate revenue.
+> I don’t just write code - I build products that grow, scale, and generate revenue.
 
 ---
 
@@ -22,22 +22,22 @@ With **4+ years of experience** and **30+ delivered projects**, I specialize in 
 ## 💻 Tech Stack
 
 ### Frontend
-React • Next.js • TypeScript • JavaScript (ES6+)
+- React • Next.js • TypeScript • JavaScript (ES6+)
 
 ### State & Data
-Redux • Redux Toolkit • Zustand • TanStack Query • XState
+- Redux • Redux Toolkit • Zustand • TanStack Query • XState
 
 ### UI & Styling
-Tailwind • shadcn/ui • Storybook • Material UI • Ant Design
+- Tailwind • shadcn/ui • Storybook • Material UI • Ant Design
 
 ### Backend & APIs
-Node.js • Express • REST • GraphQL
+- Node.js • Express • REST • GraphQL
 
 ### Testing
-Playwright • Jest • Cypress • Vitest
+- Playwright • Jest • Cypress • Vitest
 
 ### Other
-WebSockets • Performance Optimization • High-load systems
+- WebSockets • Performance Optimization • High-load systems
 
 ---
 
